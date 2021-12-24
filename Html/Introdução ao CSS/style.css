@@ -1,0 +1,8 @@
+#title, .subtitle, .posttitle{
+    color: rgb(94, 94, 248);
+}
+
+.posttitle{
+    font-size: 25px;
+    font-style: italic;
+}

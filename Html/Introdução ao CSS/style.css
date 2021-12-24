@@ -46,3 +46,8 @@ a {
 .post_image{
     margin-bottom: 15px;
 }
+
+.footer_list{
+    list-style-type: "\261B";
+    padding-left: 15px;
+}

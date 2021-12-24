@@ -1,0 +1,35 @@
+<a> O atributo href especifica a URL da página para a qual o link vai.
+
+Se o atributo href não estiver presente, a tag <a> não será um hiperlink.
+
+Uma URL completa como:  href="http://exemplo.com")
+A um elemento com um id relativo na pagina(href="#section2")
+Diferentes protocolos ( https://, ftp://, mailto:, file:, tel:, etc..)
+Um script ( href="javascript:alert('Hello');")
+
+target - especificamos o modo como o link será aberto 
+	_blank - Abre o documento vinculado em uma nova janela ou guia
+	_self - Abre o documento vinculado no mesmo quadro em que foi clicado (este é o padrão)
+	_parent - Abre o documento vinculado no quadro pai
+	_top - Abre o documento vinculado em todo o corpo da janela
+	framename - Abre o documento vinculado no iframe nomeado 
+
+
+
+<img>
+
+A tag HTML <img> é usada para incorporar uma imagem em uma página da web.
+
+As imagens não são tecnicamente inseridas em uma página da web; as imagens estão vinculadas a páginas da web. A tag <img> cria um espaço de retenção para a imagem referenciada.
+
+A tag <img> está vazia, contém apenas atributos e não possui uma tag de fechamento.
+
+A tag <img> tem dois atributos obrigatórios:
+
+src - especifica o caminho para a imagem
+alt - especifica um texto alternativo para a imagem 
+
+Atrib opcionais 
+
+height - especifica altura da imagem
+width - especifica largura da imagem

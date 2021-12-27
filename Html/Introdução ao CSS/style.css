@@ -1,6 +1,9 @@
 body{
     background: rgb(243, 243, 243);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 1200px;
+    margin: auto;
+
 }
 
 
@@ -44,7 +47,14 @@ a {
 }
 
 .post_image{
-    margin-bottom: 15px;
+    margin-bottom: 20px;
+    width: 30%;
+}
+
+.post_w3c{
+    margin-bottom: 20px;
+    width: 150px;
+    height: 150px;
 }
 
 .footer_list{
